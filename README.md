@@ -11,4 +11,4 @@ Focus Areas:
 
 Project Deliverables
    - A structured report summarizing the differences and similarities.
-   - Download report here: 
+   - Download report here: https://github.com/Oyindollars/Data-privacy-comparison-Nigeria-vs-GDPR/blob/d3bb8566d559f5c19d3e317f64f383c786534492/Assignment%20Report.pdf
